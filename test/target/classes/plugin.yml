@@ -1,0 +1,11 @@
+name: Test
+version: 'test'
+main: jochen.test.Test
+api-version: 1.17
+commands:
+  spawn:
+    description: hiermee ga je naar spawn
+  hub:
+    description: hiermee ga je naar spawn
+  rank:
+    description: get a rank
